@@ -51,27 +51,6 @@ The **Lost and Found Bulletin Board** is a community-driven platform designed to
 ### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
 
----
-
-## Website Diagram:
-### Platform Workflow
-Below is a diagram showcasing the platform's workflow from posting a lost/found item to reuniting it with its owner:
-
-![Platform Workflow Diagram](https://via.placeholder.com/800x400.png?text=Workflow+Diagram)
-
----
-
-## Screenshots:
-### Homepage:
-![Homepage Screenshot](https://via.placeholder.com/800x400.png?text=Homepage+Screenshot)
-
-### Posting a Lost Item:
-![Post Lost Item Screenshot](https://via.placeholder.com/800x400.png?text=Post+Lost+Item+Screenshot)
-
-### Search Results:
-![Search Results Screenshot](https://via.placeholder.com/800x400.png?text=Search+Results+Screenshot)
-
----
 
 ## Project URLs:
 - **Frontend URL:** [Lost and Found Frontend](https://lost-found-five.vercel.app/)  
